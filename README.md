@@ -2,4 +2,4 @@
 https://github.com/vulinh64/vulinh-session/blob/main/GIT.MD
 
 ## Java
-TBA
+https://github.com/vulinh64/vulinh-session/blob/main/JAVA.md

@@ -1,4 +1,4 @@
-package com.vulinh;
+package com.vulinh.demo;
 
 public class DataTypes {
 

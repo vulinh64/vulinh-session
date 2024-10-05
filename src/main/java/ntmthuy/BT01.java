@@ -1,4 +1,4 @@
-package com.vulinh.ntmthuy;
+package ntmthuy;
 import java.util.Scanner;
 
 public class BT01 {

@@ -1,4 +1,5 @@
 import java.util.Scanner;
+package com.vulinh.ntmthuy;
 public class BT01 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

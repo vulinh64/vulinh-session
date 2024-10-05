@@ -5,11 +5,11 @@ public class BT01 {
 		Scanner scanner = new Scanner(System.in);
 
 		// Nhập số thứ nhất
-		System.out.print("Nhập vào số thứ nhất:");
+		System.out.print("Nhập vào số thứ nhất: ");
 		int a = Integer.parseInt(scanner.nextLine());
 
 		// Nhập số thứ hai
-		System.out.print("Nhập vào số thứ hai:");
+		System.out.print("Nhập vào số thứ hai: ");
 		int b = Integer.parseInt(scanner.nextLine());
 
 		// Tính toán các phép toán
@@ -30,7 +30,6 @@ public class BT01 {
 		System.out.println("a lớn hơn b: " + (a > b));
 		System.out.println("a bé hơn b: " + (a < b));
 
-		// Đóng scanner
-		scanner.close();
+
 	}
 }
